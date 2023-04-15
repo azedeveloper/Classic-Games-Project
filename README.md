@@ -4,15 +4,16 @@ Welcome to the Classic Games Project! This repository is dedicated to recreating
 
 ## List of Games to Remake 📝
 
-[x] Pong 🏓
-[] Minesweeper 💣
-[] Snake 🐍
-[] Tetris 🧱
-[] Space Invaders 👾
-[] Pac-Man 👻
-[] Breakout 🌟
-[] Asteroids ☄️
-[] Frogger 🐸
-[] Tic-Tac-Toe ❌⭕️
+- [x] Pong 🏓
+- [ ] Minesweeper 💣
+- [ ] Snake 🐍
+- [ ] Tetris 🧱
+- [ ] Space Invaders 👾
+- [ ] Pac-Man 👻
+- [ ] Breakout 🌟
+- [ ] Asteroids ☄️
+- [ ] Frogger 🐸
+- [ ] Tic-Tac-Toe ❌⭕️
+
 
 Feel free to suggest more classic games, and contributions are always welcome! Happy coding!
