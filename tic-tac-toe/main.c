@@ -1,3 +1,12 @@
+/*
+ * TIC TAC TOE GAME
+ * Developed by: AZE (https://azedev.net/)
+ * Part of the Classic Games Project: (https://github.com/azedeveloper/Classic-Games-Project)
+ * Copyright (C) 2023 AZE. All rights reserved.
+ * This code is for educational and personal use only.
+ * Redistribution or commercial use is prohibited without the author's permission.
+*/
+
 #include <windows.h>
 #include <stdbool.h>
 #include <stdlib.h>
