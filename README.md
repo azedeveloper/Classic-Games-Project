@@ -8,6 +8,7 @@ The checked boxes indicates that the game is done!
 
 - [x] Pong 🏓
 - [x] Snake 🐍
+- [x] Tic-Tac-Toe ❌⭕️
 - [ ] Minesweeper 💣
 - [ ] Tetris 🧱
 - [ ] Space Invaders 👾
@@ -15,7 +16,6 @@ The checked boxes indicates that the game is done!
 - [ ] Breakout 🌟
 - [ ] Asteroids ☄️
 - [ ] Frogger 🐸
-- [ ] Tic-Tac-Toe ❌⭕️
 
 
 Feel free to suggest more classic games, and contributions are always welcome! Happy coding!
