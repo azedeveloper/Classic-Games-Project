@@ -4,6 +4,8 @@ Welcome to the Classic Games Project! This repository is dedicated to recreating
 
 ## List of Games to Remake 📝
 
+The checked boxes indicates that the game is done!
+
 - [x] Pong 🏓
 - [ ] Minesweeper 💣
 - [ ] Snake 🐍
